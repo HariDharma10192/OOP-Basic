@@ -14,7 +14,6 @@
 // echo "<br>";
 // echo ContohStatic::halo(); // Memanggil method statik halo()
 // echo "<hr>";
-
 // echo ContohStatic::halo(); // Memanggil method statik halo()
 
 
